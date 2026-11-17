@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Résolution 1718 (2006) du Conseil de sécurité</title>
-    <link>https://undocs.org/fr/S/RES/1718(2006)</link>
-    <description>Suivi de la résolution 1718 du Conseil de sécurité de l'ONU et des résolutions de sanctions contre la RPDC.</description>
-    <language>fr</language>
+    <title>Security Council Resolution 1718 (2006)</title>
+    <link>https://undocs.org/en/S/RES/1718(2006)</link>
+    <description>Tracking Security Council resolution 1718 and the follow-up sanctions resolutions on the DPRK.</description>
+    <language>en</language>
     <lastBuildDate>Tue, 17 Nov 2026 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ahadioui.github.io/flux-1718/flux-1718.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://ahadioui.github.io/flux-1718/flux-1718-en.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Panel d'experts du Comité 1718 : fin du mandat</title>
-      <link>https://undocs.org/fr/S/RES/1718(2006)</link>
+      <title>1718 Committee Panel of Experts: mandate ends</title>
+      <link>https://undocs.org/en/S/RES/1718(2006)</link>
       <guid isPermaLink="false">res-1718-panel-2024</guid>
       <pubDate>Tue, 30 Apr 2024 12:00:00 +0000</pubDate>
-      <description>Le mandat du Panel d'experts qui assistait le Comité 1718 a pris fin, le renouvellement proposé en mars 2024 n'ayant pas été adopté au Conseil de sécurité.</description>
+      <description>The mandate of the Panel of Experts assisting the 1718 Committee came to an end, as the renewal proposed in March 2024 was not adopted by the Security Council.</description>
     </item>
 
     <item>
-      <title>Résolution 2397 (2017)</title>
-      <link>https://undocs.org/fr/S/RES/2397(2017)</link>
+      <title>Resolution 2397 (2017)</title>
+      <link>https://undocs.org/en/S/RES/2397(2017)</link>
       <guid isPermaLink="false">res-2397</guid>
       <pubDate>Fri, 22 Dec 2017 12:00:00 +0000</pubDate>
-      <description>Le Conseil renforce les sanctions contre la RPDC, notamment sur les produits pétroliers raffinés et le pétrole brut.</description>
+      <description>The Council tightens sanctions on the DPRK, notably on refined petroleum products and crude oil.</description>
     </item>
 
     <item>
-      <title>Résolution 2375 (2017)</title>
-      <link>https://undocs.org/fr/S/RES/2375(2017)</link>
+      <title>Resolution 2375 (2017)</title>
+      <link>https://undocs.org/en/S/RES/2375(2017)</link>
       <guid isPermaLink="false">res-2375</guid>
       <pubDate>Mon, 11 Sep 2017 12:00:00 +0000</pubDate>
-      <description>Nouvelles mesures adoptées après l'essai nucléaire du 3 septembre 2017.</description>
+      <description>New measures adopted after the nuclear test of 3 September 2017.</description>
     </item>
 
     <item>
-      <title>Résolution 2270 (2016)</title>
-      <link>https://undocs.org/fr/S/RES/2270(2016)</link>
+      <title>Resolution 2270 (2016)</title>
+      <link>https://undocs.org/en/S/RES/2270(2016)</link>
       <guid isPermaLink="false">res-2270</guid>
       <pubDate>Wed, 02 Mar 2016 12:00:00 +0000</pubDate>
-      <description>Renforcement des sanctions après l'essai nucléaire de janvier 2016.</description>
+      <description>Sanctions strengthened after the nuclear test of January 2016.</description>
     </item>
 
     <item>
-      <title>Résolution 1874 (2009)</title>
-      <link>https://undocs.org/fr/S/RES/1874(2009)</link>
+      <title>Resolution 1874 (2009)</title>
+      <link>https://undocs.org/en/S/RES/1874(2009)</link>
       <guid isPermaLink="false">res-1874</guid>
       <pubDate>Fri, 12 Jun 2009 12:00:00 +0000</pubDate>
-      <description>Le Conseil durcit les sanctions après le deuxième essai nucléaire de la RPDC et met en place le Panel d'experts.</description>
+      <description>The Council toughens sanctions after the DPRK's second nuclear test and establishes the Panel of Experts.</description>
     </item>
 
     <item>
-      <title>Adoption de la résolution 1718</title>
-      <link>https://undocs.org/fr/S/RES/1718(2006)</link>
+      <title>Adoption of resolution 1718</title>
+      <link>https://undocs.org/en/S/RES/1718(2006)</link>
       <guid isPermaLink="false">res-1718-adoption</guid>
       <pubDate>Sat, 14 Oct 2006 12:00:00 +0000</pubDate>
-      <description>Le Conseil de sécurité adopte des sanctions contre la RPDC à la suite de l'essai nucléaire du 9 octobre 2006 et crée le Comité 1718.</description>
+      <description>The Security Council adopts sanctions against the DPRK following the nuclear test of 9 October 2006 and establishes the 1718 Committee.</description>
     </item>
 
   </channel>
